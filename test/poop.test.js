@@ -1,4 +1,4 @@
-const router = require("../routers/recetas");
+const router = require("../routers/poop");
 const request = require("supertest");
 const express = require("express");
 
